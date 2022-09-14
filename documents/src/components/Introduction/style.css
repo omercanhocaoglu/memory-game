@@ -1,0 +1,17 @@
+.IntroDiv {
+    text-align: center;
+    text-transform: capitalize
+}
+
+.therules {
+    text-decoration: dotted;
+
+}
+
+.rule1 {
+    color: red;
+}
+
+.rule2 {
+    color: green;
+}
